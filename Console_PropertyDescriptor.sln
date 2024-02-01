@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_PropertyDescriptor", "Console_PropertyDescriptor\Console_PropertyDescriptor.csproj", "{FE9C9D4F-1E82-41AA-B76E-8354F43A394A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePropertyDescriptor", "Console_PropertyDescriptor\ConsolePropertyDescriptor.csproj", "{FE9C9D4F-1E82-41AA-B76E-8354F43A394A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
